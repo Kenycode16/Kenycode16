@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aziz
 
-### A passionate Jupyter notebook developer
+### A passionate Software Engineer
 
 
 - 🔭 I'm currently working on **a MEAN stack projects**
