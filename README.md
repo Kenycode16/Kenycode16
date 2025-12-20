@@ -9,11 +9,11 @@
 
 - 👯 I'm looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **React, Node JS, **
+- 💬 Ask me about **React, Node JS**
 
 - 📫 How to reach me **med.zaghoudi002@gmail.com**
 
-- ⚡ Fun fact **If i am not coding, I am definitely gaming **
+- ⚡ Fun fact **If i am not coding, I am definitely gaming**
 
 - 👨‍💻 All of my projects are available at **[https://maz-portfolio.com/](https://maz-portfolio.com/)**
 
