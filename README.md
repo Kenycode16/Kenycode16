@@ -2,7 +2,6 @@
 
 ### A passionate Jupyter notebook developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kenycode16&label=Profile views&color=0e75b6&style=flat" alt="Kenycode16" /> </p>
 
 - 🔭 I'm currently working on **a MEAN stack projects**
 
