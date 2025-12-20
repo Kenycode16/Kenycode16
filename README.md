@@ -1,6 +1,6 @@
 # Aziz Zaghdoudi
 
-### A passionate Software Engineer
+**` A passionate Software Engineer `**
 
 
 - 🔭 I'm currently working on **a MEAN stack projects**
